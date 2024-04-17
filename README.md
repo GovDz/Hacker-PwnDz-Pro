@@ -1,11 +1,5 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1711921127533-d227262a6705?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MTMzOTA4MTZ8&ixlib=rb-4.0.3&q=85
-coverY: 0
 layout:
-  cover:
-    visible: true
-    size: full
   title:
     visible: false
   description:
@@ -18,7 +12,7 @@ layout:
     visible: true
 ---
 
-# Untitled
+# Introduction
 
 Welcome to our journey into the enigmatic realm of hacking. Our mission is simple: to demystify <mark style="color:red;">**hacking**</mark> through detailed and approachable technical guides. From the intricacies of Active Directory to the nuances of Web services, we delve deep. And we’re constantly expanding our coverage to include even more topics. Join us in unraveling the complexities of hacking, one guide at a time.
 
