@@ -14,6 +14,8 @@ layout:
 
 # Introduction
 
+<figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption></figcaption></figure>
+
 Welcome to our journey into the enigmatic realm of hacking. Our mission is simple: to demystify <mark style="color:red;">**hacking**</mark> through detailed and approachable technical guides. From the intricacies of Active Directory to the nuances of Web services, we delve deep. And we’re constantly expanding our coverage to include even more topics. Join us in unraveling the complexities of hacking, one guide at a time.
 
 Our guides go beyond the typical cheat sheets by offering explanations that are easy to understand and providing context where it counts. Rest assured that every detail you encounter is not only accurate and practical but also uniquely developed. We prioritize quality over quantity, ensuring all content is original, thoroughly verified, and crafted without shortcuts.
