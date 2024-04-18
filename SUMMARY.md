@@ -2,7 +2,8 @@
 
 * [Introduction](README.md)
 
-## 💻 Web services
+## 🛡️ Introduction to Hacking
 
-* [Page 1](web-services/page-1/README.md)
-  * [Page 2](web-services/page-1/page-2.md)
+* [Ethical Hacking vs. Unethical Hacking](introduction-to-hacking/ethical-hacking-vs.-unethical-hacking.md)
+* [Legal and Ethical Considerations](introduction-to-hacking/legal-and-ethical-considerations.md)
+* [Common Hacking Techniques and Methods](introduction-to-hacking/common-hacking-techniques-and-methods.md)
