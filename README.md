@@ -14,7 +14,7 @@ layout:
 
 # Introduction
 
-<figure><img src=".gitbook/assets/Logo.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot_2024-04-18_01-29-48(2).png" alt=""><figcaption></figcaption></figure>
 
 Welcome to our journey into the enigmatic realm of hacking. Our mission is simple: to demystify <mark style="color:red;">**hacking**</mark> through detailed and approachable technical guides. From the intricacies of Active Directory to the nuances of Web services, we delve deep. And we’re constantly expanding our coverage to include even more topics. Join us in unraveling the complexities of hacking, one guide at a time.
 
@@ -29,4 +29,3 @@ As enthusiasts, we're passionate about what we do, but we're not perfect. Acknow
 Feel free to connect with us through Twitter, Discord, or your preferred platform. Your insights are invaluable to us, and we're eager to hear from you!
 
 Join us on this journey as we navigate the fascinating world of hacking together. Let's learn, share, and grow – one guide at a time.
-
